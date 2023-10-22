@@ -7,6 +7,7 @@
   <link  rel="stylesheet" href="https://unpkg.com/swiper@7/swiper-bundle.min.css">
   <?php require('inc/links.php'); ?>
   <title><?php echo $settings_r['site_title'] ?> - HOME</title>
+  <!-- Hotel Website -->
   <style>
     .availability-form{
       margin-top: -50px;
